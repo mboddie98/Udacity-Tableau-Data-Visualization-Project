@@ -1,1 +1,2 @@
 # Udacity-Tableau-Data-Visualization-Project
+For this project I selected the Youtube trending data datbase. I used excel to clean the data and Tableau to create dynamic visualization answer questions about how to make a trending video. To successful complete this project we had to crete 2 worksheets and 1 dashboard. In this project I discussed views by state, likes and dislikes, and trending categories. When designing the charts and dashboards I made sure to choose colors that were accessible for all and charts that accurately dipicted the data.
